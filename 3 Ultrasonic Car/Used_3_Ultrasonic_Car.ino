@@ -80,7 +80,7 @@ int sensorTwo() {
   return cm;
 }
 
-//Get the sensor values
+
 int sensorThree() {
   
   digitalWrite(S3Trig, LOW);
